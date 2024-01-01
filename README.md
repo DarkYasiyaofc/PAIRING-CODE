@@ -1,4 +1,4 @@
 # PAIRING-CODE
 
-https://replit.com/
+https://replit.com
 
