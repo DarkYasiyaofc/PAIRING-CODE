@@ -1,5 +1,6 @@
-//copy code? pls put my github name as credit
-//🖕 to those who copy without credit
+// GO TO creds.js BY PAIRING CODE
+// Platform https://replit.com
+// @DarkYasiyaofc
 const makeWASocket = require("@whiskeysockets/baileys").default
 const qrcode = require("qrcode-terminal")
 const fs = require('fs')
